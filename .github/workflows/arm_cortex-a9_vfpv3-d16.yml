@@ -1,4 +1,4 @@
-name: Start build ssr+  arm_cortex-a9_vfpv3-d16 by unixhost
+name: Start build ssr+  arm_cortex-a9 by unixhost
 
 on:
  workflow_dispatch:
